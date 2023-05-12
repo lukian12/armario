@@ -1,0 +1,137 @@
+.h1{
+    
+text-align: center;
+
+}
+h2{
+ margin-top: 20px
+ 
+
+}
+
+body{
+    text-align: center;
+    font-size: 50px;
+    background-color: aquamarine;
+}
+.porta1{
+    background-color: darkred;
+    float: left;
+    border: solid 2px;
+    text-align: center;
+    height: 800px;
+    width: 600px;
+}
+.porta2{
+    background-color: blueviolet;
+    float: left;
+  display: block;
+ text-align: center;    
+ border: solid 2px;
+ height : 800px;
+ width: 600px;
+
+}
+.porta3{
+    background-color: chartreuse;
+    float: left;
+    display: block;
+    text-align: center;
+    border: solid 2px;
+    height: 800px;
+    width: 600px;
+}
+.porta4{
+    background-color: orange;
+    float: left;
+    display: block;
+    text-align: center;
+    height: 800px;
+    width: 600px;
+    border: solid 2px;
+
+}
+.porta5{
+    background-color: deeppink;
+    float: left;
+    display: block;
+    text-align: center;
+    height:800px;
+    width:600px;
+    border:solid 2px;
+}
+.porta6{
+    background-color: dimgray;
+    float: left;
+    display: block;
+    text-align: center;
+    height: 800px;
+    width: 600px;
+    border: solid 2px;
+}
+.porta7{
+    background-color: indigo;
+    float:left;
+    display:block;
+    text-align: center;
+    height: 800px;
+    width:600px;
+    border: solid 2px;
+}
+.porta8{
+    display: block;
+background-color:chocolate;
+float: left;
+text-align: center;
+height: 800px;
+width: 600px;
+border: solid 2px;
+
+}
+
+
+#botao01:hover{
+    background-color:deeppink;
+   font-size: 20px;
+}
+#botao02:hover{
+    background-color:blue;
+    font-size: 20px;
+}
+#botao03:hover{
+    background-color:blueviolet;
+    font-size: 20px;
+}
+#botao04:hover{
+    justify-content: center;
+    background-color:cadetblue;
+    font-size: 20px;
+
+}
+#botao05:hover{
+    justify-content: center;
+    background-color: brown;
+    font-size: 20px;
+
+}
+#botao06:hover{
+    background-color: chocolate;
+    font-size: 20px;
+}
+.botao1{
+    font-size: 20px;
+    float:left;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.botao2{
+    font-size: 40px;
+    margin-top: 20px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+    text-align: center;
+}
